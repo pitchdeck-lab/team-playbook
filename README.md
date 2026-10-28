@@ -91,6 +91,10 @@ Closes #<이슈번호>
 3. `git rm --cached` + 커밋
 4. 이력 정리 (필요시 BFG Repo-Cleaner)
 
+## 📖 발행 원칙
+
+외부로 나가는 글(테크 블로그, 기고, 공개 발표)은 [docs/publishing.md](./docs/publishing.md) 기준으로 검수합니다.
+
 ## 📚 참고 자료
 
 - [[Git과 GitHub 완전정리]] — Git/GitHub 종합 가이드
